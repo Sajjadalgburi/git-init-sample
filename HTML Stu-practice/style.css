@@ -1,0 +1,33 @@
+.lesson {
+    color: blueviolet;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    text-align: center;
+}
+
+.section-1 {
+    background-color: #0dbc77;
+}
+
+.section-2 {
+    background-color: #f0b1b1;
+}
+
+.contact-info {
+    color: white;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+#email {
+    background-color: aqua;
+}
+
+#gitbub {
+    background-color: #8a58cf;
+}
+
+#portfolio {
+    background-color: #bec457;
+}
